@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rnfauth</string>
+    <string name="facebook_app_id">1523672404682840</string>
+    <string name="fb_login_protocol_scheme">fb1523672404682840</string>
+</resources>
